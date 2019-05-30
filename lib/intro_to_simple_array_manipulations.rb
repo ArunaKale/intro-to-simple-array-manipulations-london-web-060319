@@ -35,10 +35,10 @@ end
 
 def using_flatten(array)
 array.flatten
-e
-nd 
+end 
 
 def using_delete(array,string)
 
 end 
+
 
